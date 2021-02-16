@@ -7,7 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## About Laravel Bkash Payment
+
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://user-images.githubusercontent.com/30390432/90474602-7334f700-e147-11ea-8e4e-6d93ac1d25dc.png" width="400"></a></p>
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
